@@ -3220,12 +3220,12 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			#sidebar {
-				width: 20em;
+				width: 16em;
 			}
 
 				#sidebar > .inner {
 					padding: 1.66667em 1.66667em 1.33333em 1.66667em ;
-					width: 20em;
+					width: 16em;
 				}
 
 					#sidebar > .inner > .alt {
@@ -3236,7 +3236,7 @@ input, select, textarea {
 
 				#sidebar .toggle {
 					height: 6.25em;
-					left: 20em;
+					left: 16em;
 					line-height: 6.25em;
 					text-indent: 5em;
 					width: 5em;
@@ -3247,7 +3247,7 @@ input, select, textarea {
 					}
 
 				#sidebar.inactive {
-					margin-left: -20em;
+					margin-left: -16em;
 				}
 
 		}

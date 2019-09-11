@@ -1,6 +1,5 @@
 @import 'fontawesome-all.min.css';
 /*@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700');*/
-/*@import '//at.alicdn.com/t/font_1379597_v653bjz7fn.css';*/
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
@@ -134,7 +133,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 10pt;
 			}
 
 		}
@@ -142,7 +141,7 @@ input, select, textarea {
 		@media screen and (max-width: 360px) {
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 9pt;
 			}
 
 		}
@@ -2062,10 +2061,11 @@ input, select, textarea {
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
+
 		.icon.iconfont:before {
 			margin-top: -0.35em;
-			font-size:2em;
-			font-family: 'iconfont';
+			font-size: 2em;
+		  font-family: "iconfont" !important;
 		}
 
 /* Image */

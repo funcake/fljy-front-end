@@ -3048,7 +3048,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#main > .inner {
-				padding: 0 4em 0.1em 4em ;
+				padding: 0 2em 0.1em 2em ;
 			}
 
 				#main > .inner > section {
@@ -3060,11 +3060,11 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#main > .inner {
-				padding: 0 2em 0.1em 2em ;
+				padding: 0 1em 0.1em 1em ;
 			}
 
 				#main > .inner > section {
-					padding: 3em 0 1em 0 ;
+					padding: 1em 0 1em 0 ;
 				}
 
 		}

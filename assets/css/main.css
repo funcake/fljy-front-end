@@ -3129,7 +3129,7 @@ input, select, textarea {
 		background-color: #f5f6f7;
 		font-size: 0.9em;
 		position: relative;
-		width: 26em;
+		width: 20em;
 	}
 
 		#sidebar h2 {
@@ -3139,7 +3139,7 @@ input, select, textarea {
 		#sidebar > .inner {
 			padding: 2.22222em 2.22222em 2.44444em 2.22222em ;
 			position: relative;
-			width: 26em;
+			width: 20em;
 		}
 
 			#sidebar > .inner > * {

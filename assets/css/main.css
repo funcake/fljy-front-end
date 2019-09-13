@@ -1,4 +1,4 @@
-@import 'fontawesome-all.min.css';
+/*@import 'fontawesome-all.min.css';*/
 /*@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700');*/
 /*
 	Editorial by HTML5 UP
@@ -2599,6 +2599,9 @@ input, select, textarea {
 			opacity: 0.25;
 		}
 
+		.original {
+			text-decoration: line-through;
+		}
 /* Mini Posts */
 
 	.mini-posts article {
